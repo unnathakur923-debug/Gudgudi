@@ -1,0 +1,6 @@
+{
+  "name": "Gudgudi",
+  "description": "Gudgudi - 6-player online dice gaming darbar with practice mode, live tables, virtual wallet, and multiplayer rounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
